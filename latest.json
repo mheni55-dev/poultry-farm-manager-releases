@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial release with OTA update support.",
+  "pub_date": "2026-09-19T13:37:51.582Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYm1xYWFVSldQUWh2cG9GK244N2c4T2xEOU1MRXNyVGRjSTNHdG94MTJsK3VGeUNTRWZCbXJGcldQc0xGSkVRclNBM2RzV2lWcDN0OFpFbnExK0FPcmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI1MDcxCWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4wLjBfeDY0X2VuLVVTLm1zaS56aXAKeEt6SVZxYi9qV3RTMzkraW5aUmc1SUJQUjNuYVNyaXd6aVAzcmZmc2NOWXkrdURaa1Z4MWFER2YvVEh5TnpCREd3L25Yek8yVEVvY3kxLysxaFd0QWc9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.0.0/Poultry%20Farm%20Manager_1.0.0_x64_en-US.msi.zip"
+    }
+  }
+}
