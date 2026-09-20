@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
-  "notes": "حساب البيعة بسعر الكيلوغرام: المبلغ = سعر الكيلو × متوسط وزن الطائر × عدد الطيور، ويظهر في الفاتورة مع الوزن المباع، ويُطبع بنفس التصميم الاحترافي.",
-  "pub_date": "2026-09-20T13:06:57.777Z",
+  "version": "1.1.7",
+  "notes": "إصلاح دقة حساب المجموع في الفاتورة، فاتورة أنظف، وفحص تحديث تلقائي دوري",
+  "pub_date": "2026-09-20T14:41:38.695Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBSM1RVVW4rY25SamZFaGs3SFA4c0NtdnJaNkRYbTFXSEdGTitldlgxOXF5dFlUWEJlMDhsNmVzMzZnbVE0UmNTaXRNT084SVpsa3dNVU5Mam9xU1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTA5NjE3CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjZfeDY0X2VuLVVTLm1zaS56aXAKbzltWTBYWk53aFgyUlRHR0pxS1RoWE51WlJCTTdUd0t6aGVaNmRtMUtVb1hCMXoySlkrUzNmcWU0bTY0bERjbzJsd0lTSjFIaXMrczlGT2lzUVEyQmc9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.6/Poultry.Farm.Manager_1.1.6_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.6/Poultry.Farm.Manager_1.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFlcVJTaThSVXJZRTJyTWVxNVZUWjBTcTM5bnQvMlpHTks3UHJ5Q24xcGhkNHcxUExTTjRzUS9aam1JbnJsWmo5aW93bHlRNnZVREw4S1U0YThCN2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE1Mjk4CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjdfeDY0X2VuLVVTLm1zaS56aXAKTk9tTEZRNHI0eVYrMXBQbHU4YlQvcFc2MXdWYWpVSFNuMDdJajVkaFZlaEhhN0NxYzMrLzVOcEJaU1ZVbW0ycEJFdUMySzV1R25KNkJOc2RXSWxYQkE9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.7/Poultry.Farm.Manager_1.1.7_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.7/Poultry.Farm.Manager_1.1.7_x64-setup.exe"
     }
   }
 }
