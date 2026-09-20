@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Box summary cards + hide per-row weight info in loaded boxes",
-  "pub_date": "2026-09-20T09:15:22.956Z",
+  "version": "1.1.3",
+  "notes": "Print expense reports + create pro-forma sales invoices",
+  "pub_date": "2026-09-20T10:42:59.737Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnJTS2xYQXR6UW1oUHdFMGtiM3UzVTd3cUR3Y0hOR280VStvNVhobFJVYkU0RFR4NDl0VHk5TlozSGFNL2x6MlgvUVRxaEZ2WTdlbmMxYS9hT2QwNGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk1NzIyCWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjJfeDY0X2VuLVVTLm1zaS56aXAKZU1nQmhCcGd3NHRjOVJpVS8xdmJ1VlJjVTIzMUQxRHJSVmZUaTQrWEU5NlUyaWNYajVVU09icUU2d2pjcnB2aEZZeHU3bmFpWm51T1ljemRJYWh0QWc9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.2/Poultry.Farm.Manager_1.1.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnA4dFpseDNsTkY0RHh3c1NsTXJOcUhDditidGxLdzVWajZNRER0dmlSblgveDFaRThQMFA1NGNFRmhQNlJzLzNFMDk3NTBWLzVvajBaZTRybk1CZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAwOTc5CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjNfeDY0X2VuLVVTLm1zaS56aXAKbXlUUEV2U1NKTDNaMk15RWlFekh1WHRjUGE5Q3UxVTQ3Wmp1bGkzU1dDb0RsMGpJS1ZIbUxKWFVtN3NCUUFRNDZZSUNUN283U0dFYjA5ajZGVzdDQkE9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.3/Poultry.Farm.Manager_1.1.3_x64_en-US.msi.zip"
     }
   }
 }
