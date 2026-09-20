@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "Print expense reports + create pro-forma sales invoices",
-  "pub_date": "2026-09-20T10:42:59.737Z",
+  "version": "1.1.4",
+  "notes": "Professional pro-forma sales invoice",
+  "pub_date": "2026-09-20T11:01:02.038Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnA4dFpseDNsTkY0RHh3c1NsTXJOcUhDditidGxLdzVWajZNRER0dmlSblgveDFaRThQMFA1NGNFRmhQNlJzLzNFMDk3NTBWLzVvajBaZTRybk1CZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAwOTc5CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjNfeDY0X2VuLVVTLm1zaS56aXAKbXlUUEV2U1NKTDNaMk15RWlFekh1WHRjUGE5Q3UxVTQ3Wmp1bGkzU1dDb0RsMGpJS1ZIbUxKWFVtN3NCUUFRNDZZSUNUN283U0dFYjA5ajZGVzdDQkE9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.3/Poultry.Farm.Manager_1.1.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnRUWFBBZUhEMGVVU21GR3pFaFo3NDJxOGs1NG01RjN5d1V0M2VsNEZCMCtHQTViV0tIemV6MnNaOFplSExONzlxRUZLdTRkM1hoN3Z2VFNoa1l4ZEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAyMDYxCWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjRfeDY0X2VuLVVTLm1zaS56aXAKWDFkTDkvOHJVWjBMWXJnd2Rtb1hhZ1Vrd0JqL2cybWgvcVFXeTRwNE81VHNzRlZXYnhVa0ZnS3dlZHoyQ1B0dU1BbG5iQ2l4czNFMXFYcUtJY2s1RFE9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.4/Poultry.Farm.Manager_1.1.4_x64_en-US.msi.zip"
     }
   }
 }
