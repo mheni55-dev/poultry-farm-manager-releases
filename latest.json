@@ -1,12 +1,12 @@
 {
-  "version": "1.1.5",
-  "notes": "البيع بسعر الطير الواحد: تُسجَّل البيعة من صفحة البيع ويظهر سعرها ومبلغها في الفاتورة الشكلية. تحسين تحديث التطبيق: التثبيت يتحمّل ويشغّل النسخة الجديدة بنفسه في جميع البيئات.",
-  "pub_date": "2026-09-20T12:39:25.088Z",
+  "version": "1.1.6",
+  "notes": "حساب البيعة بسعر الكيلوغرام: المبلغ = سعر الكيلو × متوسط وزن الطائر × عدد الطيور، ويظهر في الفاتورة مع الوزن المباع، ويُطبع بنفس التصميم الاحترافي.",
+  "pub_date": "2026-09-20T13:06:57.777Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnVLKzV1YUU4eEFOOUVLZmhDbFNxdHZNMXoxdWR6UlFVTi9MQmFMZDkrZEVLNTlwaUU1NVRkMU5xcjJtdnJKSXpmNnUxMmlDUHdUYkpvWEpBZFRQNkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTA3OTY0CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjVfeDY0X2VuLVVTLm1zaS56aXAKTnRSS3BtanNKNERLVGZ1QXhWaFROY2JueFB2Q3kxWVRtcVc1blhVRWFGRlhGUDJKZE1WSGh2Zyt5T3Zad1pVZmYrUTlrZWN6d3dZUmkxV3BLSDBuQlE9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.5/Poultry.Farm.Manager_1.1.5_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.5/Poultry.Farm.Manager_1.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBSM1RVVW4rY25SamZFaGs3SFA4c0NtdnJaNkRYbTFXSEdGTitldlgxOXF5dFlUWEJlMDhsNmVzMzZnbVE0UmNTaXRNT084SVpsa3dNVU5Mam9xU1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTA5NjE3CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjZfeDY0X2VuLVVTLm1zaS56aXAKbzltWTBYWk53aFgyUlRHR0pxS1RoWE51WlJCTTdUd0t6aGVaNmRtMUtVb1hCMXoySlkrUzNmcWU0bTY0bERjbzJsd0lTSjFIaXMrczlGT2lzUVEyQmc9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.6/Poultry.Farm.Manager_1.1.6_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.6/Poultry.Farm.Manager_1.1.6_x64-setup.exe"
     }
   }
 }
