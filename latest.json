@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Store/inventory module added",
-  "pub_date": "2026-09-19T14:18:24.058Z",
+  "version": "1.1.1",
+  "notes": "OTA update fix: Install Now installs and relaunches directly",
+  "pub_date": "2026-09-20T09:00:15.883Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYm90Qm84ZDh0SlNwaGtmY1cyVi9ZMUh4NkFoODl3K1ZXVTczaWRqZzd1S0dTNlNqRmVCTFJvUkFubk1GcHZJL1phOXVhU3NDV0x6Q253RlR5eXJidVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI3NTAzCWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjBfeDY0X2VuLVVTLm1zaS56aXAKSDhydXQ0WXh0ekx0cnl0NXIzZ0tocDlmYzBTekcycmNzRG9md3hBUEdnOHRzd3ZZMFAvSlh5NzBRRDN6dEp2dXNTeU9nRVh6VUtyRjZUcjRPaHlqQkE9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.0/Poultry.Farm.Manager_1.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnJ5SlRSYnJDSlZDZHlyZDJGNmJwdWtqeWtWeGQyeEtKczZNc2lwYTdoTkkvdnVlZzJTcW5keDJtUTEvaEpsMU9PNWtiSytOQUJXZ1owN2txT3FKOFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk0ODE1CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjFfeDY0X2VuLVVTLm1zaS56aXAKcjVIb01xaHdYUC8xTytic1J5OU9ldzJrSVl4SUg5ejZyajRsdWJsTjNtQ1JYY3JGUDY5WGZpNnREbEZmVUYybmliWVdaYnhLSG5DRFF4YUZXVVZsRGc9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.1/Poultry.Farm.Manager_1.1.1_x64_en-US.msi.zip"
     }
   }
 }
