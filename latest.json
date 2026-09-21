@@ -1,12 +1,12 @@
 {
-  "version": "1.1.7",
-  "notes": "إصلاح دقة حساب المجموع في الفاتورة، فاتورة أنظف، وفحص تحديث تلقائي دوري",
-  "pub_date": "2026-09-20T14:41:38.695Z",
+  "version": "1.2.0",
+  "notes": "تغيير اسم البرنامج إلى Haddad Poultry Farm / مزرعة حداد للدواجن",
+  "pub_date": "2026-09-21T09:06:13.790Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFlcVJTaThSVXJZRTJyTWVxNVZUWjBTcTM5bnQvMlpHTks3UHJ5Q24xcGhkNHcxUExTTjRzUS9aam1JbnJsWmo5aW93bHlRNnZVREw4S1U0YThCN2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE1Mjk4CWZpbGU6UG91bHRyeSBGYXJtIE1hbmFnZXJfMS4xLjdfeDY0X2VuLVVTLm1zaS56aXAKTk9tTEZRNHI0eVYrMXBQbHU4YlQvcFc2MXdWYWpVSFNuMDdJajVkaFZlaEhhN0NxYzMrLzVOcEJaU1ZVbW0ycEJFdUMySzV1R25KNkJOc2RXSWxYQkE9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.7/Poultry.Farm.Manager_1.1.7_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.1.7/Poultry.Farm.Manager_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBSdnh0R25hdkxFTmZFQ000Z09vSjl5V1MxS1E4NDltOUFyVVQ5WjNWUGkxTzJOUDlFUnVxNmNVNXJoT05Nb0JrWG1FNWkxWWVuVkh3NjRjZVBkb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTgxNTczCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMF94NjRfZW4tVVMubXNpLnppcApaS0tTZDBQZUFnaTNvY2U5MS8xYTg3TWdTTTI3ZXlFRnovNVlMYUhwU2dnTHdBc2VsUnV0UGpHdUJSSkRRQXR2OHYrdDlOb1pGSndzR01leVJhUHNEQT09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.0/Haddad.Poultry.Farm_1.2.0_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.0/Haddad.Poultry.Farm_1.2.0_x64-setup.exe"
     }
   }
 }
