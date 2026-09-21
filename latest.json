@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
-  "notes": "تغيير اسم البرنامج إلى Haddad Poultry Farm / مزرعة حداد للدواجن",
-  "pub_date": "2026-09-21T09:06:13.790Z",
+  "version": "1.2.1",
+  "notes": "شكل الفاتورة: A4 كامل، الجدول في الوسط، الإمضاء أسفل الصفحة، وإضافة المبلغ الإجمالي بالأحرف (عربي/إنجليزي)",
+  "pub_date": "2026-09-21T09:24:33.301Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBSdnh0R25hdkxFTmZFQ000Z09vSjl5V1MxS1E4NDltOUFyVVQ5WjNWUGkxTzJOUDlFUnVxNmNVNXJoT05Nb0JrWG1FNWkxWWVuVkh3NjRjZVBkb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTgxNTczCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMF94NjRfZW4tVVMubXNpLnppcApaS0tTZDBQZUFnaTNvY2U5MS8xYTg3TWdTTTI3ZXlFRnovNVlMYUhwU2dnTHdBc2VsUnV0UGpHdUJSSkRRQXR2OHYrdDlOb1pGSndzR01leVJhUHNEQT09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.0/Haddad.Poultry.Farm_1.2.0_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.0/Haddad.Poultry.Farm_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnM5dlFvQzNQTUdWSmlMVkRHSEcvSlBxaW4yRzlBUEo5SE4vUFM4U2N6cldISEVvNEQybkRhMHlGeXBBaE5Uc0pJdTJEdkhXY0ZGaDYzQjlMbnpsWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTgyNjcyCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMV94NjRfZW4tVVMubXNpLnppcAo3cmVkT0RtUzJuNjBvNXJucUxDNkRTOVZiYzNYQWp1RE9yLzlOOWhJS1lUcE1GRitCS0VMOUxmUFBicmcrK001Qmc3ZTdWdU1HeVpTZitSeFJSc21Bdz09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.1/Haddad.Poultry.Farm_1.2.1_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.1/Haddad.Poultry.Farm_1.2.1_x64-setup.exe"
     }
   }
 }
