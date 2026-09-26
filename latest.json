@@ -1,12 +1,12 @@
 {
-  "version": "1.2.2",
-  "notes": "Import sales sessions from the Android app: paste the exported line or open the exported file on the Sales page.",
-  "pub_date": "2026-09-26T14:37:14.296Z",
+  "version": "1.2.3",
+  "notes": "Fix: importing a sale file exported from the Android app no longer reports an invalid code. The decoder now finds the export code inside the exported file/text instead of expecting it on the first line.",
+  "pub_date": "2026-09-26T15:02:55.346Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYml6VVhxNVpnZTNDNXBPRjNpTUZ4MjhxNE5WZGpqcWdWK1NUVS92Z2s1cEhvdlZLaEVuM2c5SGxXMnVtakFuQUFtNy9ZVEI1Yy9lWE0xUW9XblA4eEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDMzNDMzCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMl94NjRfZW4tVVMubXNpLnppcApVT0thQThKYzgxZk96YU13MEpRd21zcU9NcmsvTDJkR0dadjZMdkZzeDJ5TXNkR2kwVWhpQk96Wm1Vems1TGYrMnFSYTN5eTNGT2dnUVRhRk0wNThBZz09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.2/Haddad.Poultry.Farm_1.2.2_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.2/Haddad.Poultry.Farm_1.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmtZZUFia1ZpeEJIYU9TMHR6U1o5L1JmQUowd0pWS1FvOThud3FqNW5KU2IyZUlqOURhanYzWTZ3MzZOZEJmaGU2NG9VbUJseXlXWm8yQWt3dDJ2Z3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDM0OTc0CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuM194NjRfZW4tVVMubXNpLnppcApMZWx0U0pISnBVY0JxNHRjNDBwVDNkbVJzVDc2MldwQTh0a2RjWUZnalM0U3hRV2xON0RSczRsaUpXcTMwV3NnMUExL0dUTSt3enp5OHVVVTc5dHhCQT09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.3/Haddad.Poultry.Farm_1.2.3_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.3/Haddad.Poultry.Farm_1.2.3_x64-setup.exe"
     }
   }
 }
