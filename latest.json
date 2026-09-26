@@ -1,12 +1,12 @@
 {
-  "version": "1.2.1",
-  "notes": "شكل الفاتورة: A4 كامل، الجدول في الوسط، الإمضاء أسفل الصفحة، وإضافة المبلغ الإجمالي بالأحرف (عربي/إنجليزي)",
-  "pub_date": "2026-09-21T09:24:33.301Z",
+  "version": "1.2.2",
+  "notes": "Import sales sessions from the Android app: paste the exported line or open the exported file on the Sales page.",
+  "pub_date": "2026-09-26T14:37:14.296Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnM5dlFvQzNQTUdWSmlMVkRHSEcvSlBxaW4yRzlBUEo5SE4vUFM4U2N6cldISEVvNEQybkRhMHlGeXBBaE5Uc0pJdTJEdkhXY0ZGaDYzQjlMbnpsWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTgyNjcyCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMV94NjRfZW4tVVMubXNpLnppcAo3cmVkT0RtUzJuNjBvNXJucUxDNkRTOVZiYzNYQWp1RE9yLzlOOWhJS1lUcE1GRitCS0VMOUxmUFBicmcrK001Qmc3ZTdWdU1HeVpTZitSeFJSc21Bdz09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.1/Haddad.Poultry.Farm_1.2.1_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.1/Haddad.Poultry.Farm_1.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYml6VVhxNVpnZTNDNXBPRjNpTUZ4MjhxNE5WZGpqcWdWK1NUVS92Z2s1cEhvdlZLaEVuM2c5SGxXMnVtakFuQUFtNy9ZVEI1Yy9lWE0xUW9XblA4eEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDMzNDMzCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMl94NjRfZW4tVVMubXNpLnppcApVT0thQThKYzgxZk96YU13MEpRd21zcU9NcmsvTDJkR0dadjZMdkZzeDJ5TXNkR2kwVWhpQk96Wm1Vems1TGYrMnFSYTN5eTNGT2dnUVRhRk0wNThBZz09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.2/Haddad.Poultry.Farm_1.2.2_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.2/Haddad.Poultry.Farm_1.2.2_x64-setup.exe"
     }
   }
 }
