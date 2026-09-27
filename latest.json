@@ -1,12 +1,12 @@
 {
-  "version": "1.2.3",
-  "notes": "Fix: importing a sale file exported from the Android app no longer reports an invalid code. The decoder now finds the export code inside the exported file/text instead of expecting it on the first line.",
-  "pub_date": "2026-09-26T15:02:55.346Z",
+  "version": "1.2.4",
+  "notes": "Manure (litter) sales: record truck loads sold per cycle and add the money to the cycle's revenue and profit.",
+  "pub_date": "2026-09-27T12:30:27.771Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmtZZUFia1ZpeEJIYU9TMHR6U1o5L1JmQUowd0pWS1FvOThud3FqNW5KU2IyZUlqOURhanYzWTZ3MzZOZEJmaGU2NG9VbUJseXlXWm8yQWt3dDJ2Z3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDM0OTc0CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuM194NjRfZW4tVVMubXNpLnppcApMZWx0U0pISnBVY0JxNHRjNDBwVDNkbVJzVDc2MldwQTh0a2RjWUZnalM0U3hRV2xON0RSczRsaUpXcTMwV3NnMUExL0dUTSt3enp5OHVVVTc5dHhCQT09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.3/Haddad.Poultry.Farm_1.2.3_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.3/Haddad.Poultry.Farm_1.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYm5wMFdGKzAvczRPa0dyM2N2VjIvRWhkV3V1Q1Fnc0l5VGhRVmNFaS93OURsYkVja29UVHgrZG5EMUR0SGpSc09VYXluL25NOW9IVXYvajVhM1JwNWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTEyMjI3CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuNF94NjRfZW4tVVMubXNpLnppcApPZmgyZ3hMSUU2VXE2SXV2bGxHT3cxazkyd25TUmREenBrVnRkVHRzYW9RWkV6TzBRSTQrM2tzZmtpSlpJeUVoRzBaV0tEaDkxUGxEZ1VnUkMzWkVEdz09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.4/Haddad.Poultry.Farm_1.2.4_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.4/Haddad.Poultry.Farm_1.2.4_x64-setup.exe"
     }
   }
 }
