@@ -1,12 +1,12 @@
 {
-  "version": "1.2.5",
-  "notes": "Hatcheries & expense matrix: every hatchery now keeps its own cycles, expenses, store and sale sessions, chosen from the sidebar (existing data moves to Main",
-  "pub_date": "2026-09-28T14:05:29.033Z",
+  "version": "1.2.6",
+  "notes": "The expenses table is now the other way round: the days of the cycle run down the rows and the expense names run across the top, with a day total on the right and a column of totals along the bottom. Only the expenses that carry money get a column.\n\nThe hatchery dropdown in the sidebar now shows how many cycles each hatchery holds, so it is clear that every hatchery keeps its own cycles, and the rename button uses a pencil.",
+  "pub_date": "2026-09-28T14:32:28.681Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBUKzlnUEI2cFhvN215RlNRdlFuVUlOenI2di90NW9FRlpDeENFeGh4WXFJeFR1OEl2N1RUNEtSTDNPbDRWSmZqWW1NeVF6ZU1ldkthU0thN3FvYVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjA0MzI4CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuNV94NjRfZW4tVVMubXNpLnppcAp1M0xRQVlKSlNHQTlMWkFEMVYreHJkWlR3aWhxR3hPaFRhRmpqNmpvWkxGaWlaVjlSaDE0dkNrRVF5SzNZOXd2cnFwdWZ3ZEdFMHIxaUVnY0NkUFlCUT09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.5/Haddad.Poultry.Farm_1.2.5_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.5/Haddad.Poultry.Farm_1.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmdIUU13cjZ2VUg2V1g2Q0pNZ2phUHVYVUhrblltWjZVZ3JyK2xkYlBic3k1dG5paU4wbUpYS1dNYXdBOHJlcHJrMExMWFl6R2dzc0d5ZGpVcldhcXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjA1OTQ4CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuNl94NjRfZW4tVVMubXNpLnppcApsclpRNm9KdUtsVjFHNEZGblpsMzMxZm5PTVJ1eXM3aHA4UktGRmhka1BhNStab1RMNFpyb2dwZE1vRW42U1hGUHl4SDRNTTZEOHRYS2l1UWRPbXhEdz09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.6/Haddad.Poultry.Farm_1.2.6_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.6/Haddad.Poultry.Farm_1.2.6_x64-setup.exe"
     }
   }
 }
