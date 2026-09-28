@@ -1,12 +1,12 @@
 {
-  "version": "1.2.4",
-  "notes": "Manure (litter) sales: record truck loads sold per cycle and add the money to the cycle's revenue and profit.",
-  "pub_date": "2026-09-27T12:30:27.771Z",
+  "version": "1.2.5",
+  "notes": "Hatcheries & expense matrix: every hatchery now keeps its own cycles, expenses, store and sale sessions, chosen from the sidebar (existing data moves to Main",
+  "pub_date": "2026-09-28T14:05:29.033Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYm5wMFdGKzAvczRPa0dyM2N2VjIvRWhkV3V1Q1Fnc0l5VGhRVmNFaS93OURsYkVja29UVHgrZG5EMUR0SGpSc09VYXluL25NOW9IVXYvajVhM1JwNWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTEyMjI3CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuNF94NjRfZW4tVVMubXNpLnppcApPZmgyZ3hMSUU2VXE2SXV2bGxHT3cxazkyd25TUmREenBrVnRkVHRzYW9RWkV6TzBRSTQrM2tzZmtpSlpJeUVoRzBaV0tEaDkxUGxEZ1VnUkMzWkVEdz09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.4/Haddad.Poultry.Farm_1.2.4_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.4/Haddad.Poultry.Farm_1.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBUKzlnUEI2cFhvN215RlNRdlFuVUlOenI2di90NW9FRlpDeENFeGh4WXFJeFR1OEl2N1RUNEtSTDNPbDRWSmZqWW1NeVF6ZU1ldkthU0thN3FvYVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjA0MzI4CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuNV94NjRfZW4tVVMubXNpLnppcAp1M0xRQVlKSlNHQTlMWkFEMVYreHJkWlR3aWhxR3hPaFRhRmpqNmpvWkxGaWlaVjlSaDE0dkNrRVF5SzNZOXd2cnFwdWZ3ZEdFMHIxaUVnY0NkUFlCUT09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.5/Haddad.Poultry.Farm_1.2.5_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.5/Haddad.Poultry.Farm_1.2.5_x64-setup.exe"
     }
   }
 }
