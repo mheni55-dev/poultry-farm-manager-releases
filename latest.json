@@ -1,12 +1,12 @@
 {
-  "version": "1.2.7",
-  "notes": "Hatcheries now carry an address along with the name: it is asked when you add a hatchery, editable together with the rename, shown under the name in Settings and as a tooltip on the sidebar selector.\n\nThe expenses-by-day table grows two things the farmer actually reads off it:\n\n- A dead-chicks column sits right after the day column, one number per day, with the cycle total in the footer row.\n- Feed, bedding and gas now show their quantity (qintals, bags, cylinders) instead of the money. The money stays a tooltip and is still counted in the day total and the grand total. Expenses entered without a quantity fall back to showing the money, so a cell is never left blank when money moved.\n\nThe table also fills the page now (full width, no height cap) and gains its own print button that prints the matrix itself, not just the plain list of expenses.",
-  "pub_date": "2026-09-29T11:32:55.680Z",
+  "version": "1.2.8",
+  "notes": "All expense categories always shown as columns in the daily table",
+  "pub_date": "2026-09-29T12:17:13.285Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmpKRFpnOVUxbWtBektUTW0zTXJiNlBBTjAvelpUbWVudkZxdElralJrODNlQnJQUWpxdHRFQk1uNm1tL2ViMkhzcytQSjZWWlo0b294dHF6MWpoWWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjgxNTc1CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuN194NjRfZW4tVVMubXNpLnppcApmS2ZoVWhZZVFYVDY5Rk4raHN6ZnR6UEJnbWM2UDU3L0dYSHdnR290cXB4bmRsRURmNTAzRVlTcHJNSnVxMGVuRE5maTh2Ykl4REhxMThYdnV6Q2dBUT09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.7/Haddad.Poultry.Farm_1.2.7_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.7/Haddad.Poultry.Farm_1.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnRpQWdzQ3lPZEdUbi9jTXVoT2FhUk51TGpGN2FnZjNzWG5ETThCUDJZNnhvUzFtWnZMOWI3RXpVMlRIMWliSHYvTVNUdWZxR0xQWE5JT1FvOTY0c2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjg0MjMyCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuOF94NjRfZW4tVVMubXNpLnppcAptVXhBZm9TZ1IwQlFIdm1UNWo4RFpxRVFmYjNZTFlQb2hLSk91aWhEQ2tRcEhPazFqL1B0aVRaSmgwVDhmSkh1V2lvNlFOQWZnR2pzSUdrQXlieWxCQT09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.8/Haddad.Poultry.Farm_1.2.8_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.8/Haddad.Poultry.Farm_1.2.8_x64-setup.exe"
     }
   }
 }
