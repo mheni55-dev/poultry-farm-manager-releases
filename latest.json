@@ -1,12 +1,12 @@
 {
-  "version": "1.2.8",
-  "notes": "All expense categories always shown as columns in the daily table",
-  "pub_date": "2026-09-29T12:17:13.285Z",
+  "version": "1.2.9",
+  "notes": "Edit expenses, and bind an expense to its cycle day",
+  "pub_date": "2026-09-30T15:09:38.836Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnRpQWdzQ3lPZEdUbi9jTXVoT2FhUk51TGpGN2FnZjNzWG5ETThCUDJZNnhvUzFtWnZMOWI3RXpVMlRIMWliSHYvTVNUdWZxR0xQWE5JT1FvOTY0c2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjg0MjMyCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuOF94NjRfZW4tVVMubXNpLnppcAptVXhBZm9TZ1IwQlFIdm1UNWo4RFpxRVFmYjNZTFlQb2hLSk91aWhEQ2tRcEhPazFqL1B0aVRaSmgwVDhmSkh1V2lvNlFOQWZnR2pzSUdrQXlieWxCQT09Cg==",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.8/Haddad.Poultry.Farm_1.2.8_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.8/Haddad.Poultry.Farm_1.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmtDazRxZnd3ZldNdi9LUmQyNE9WcHNhNnJvYXB4MUJRVk5ROUt1SHlreG9vUG02N1VEU3JlSEZwSktHRnoycnNMY3VyWHV4bEVTb1JoalAvY1VwT2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzgwOTc4CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuOV94NjRfZW4tVVMubXNpLnppcAppYmFaWWRSUCtOcmZyajkzb2d5aDNhd0JMS0w3bXJMdk14L3pjU2JwNkJQQnpoWnVESTdyUDU3N0hxY2Z0V09TZ2QrUmJtaDJhVjZKQ3hFWVJpR1ZDdz09Cg==",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.9/Haddad.Poultry.Farm_1.2.9_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.9/Haddad.Poultry.Farm_1.2.9_x64-setup.exe"
     }
   }
 }
