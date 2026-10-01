@@ -1,12 +1,12 @@
 {
-  "version": "1.2.11",
-  "notes": "Record dead birds with no expense",
-  "pub_date": "2026-10-01T10:47:15.331Z",
+  "version": "1.2.12",
+  "notes": "Expense form: no dead-birds field, day input runs 0..60",
+  "pub_date": "2026-10-01T12:03:49.320Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFRTmw3ZEdRajRGYXlPRjk2M2pGTFZLOWNsbktIeVBjUnJUQVQ2TEN6T0J5bmJTOVJNVkNSWUJaSHJDSW5qUEhtWkE0WDZKWW9tQUxMbWZIRE1RVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODUxNjM0CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTFfeDY0X2VuLVVTLm1zaS56aXAKLzNuZDk0by8xeUdoVHZieVNKTnpVU2lsK3JoTFphNTlEclhJNEFUUWZxNUlqZmFDVHR1d3l2N2xmclJvVWt2SjZEK2EwWVpKMmI1KzdOSExmNnV4REE9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.11/Haddad.Poultry.Farm_1.2.11_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.11/Haddad.Poultry.Farm_1.2.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFhV0E2UkIvWGg2MWNUaEJBV0hyZ3V3YVNxQ3J4YnROUGhLbjBhQXpuV3p5Y3dWL01hR1VkMGpYMVdCQURIS05YbFVMQWcyVHpmUDNBNnJFc0krQndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODU2MjI4CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTJfeDY0X2VuLVVTLm1zaS56aXAKWWd6Sldid0lWNlliUFl3UUFFLzZuRFQwOGh3OWVsWUt2NzJlTGhaSEpoZG1NYkFvSHBJd1BQTjdDQmZUaHRPRDNiZm93NE5LVC8rRTZrQzRNVEVvQWc9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.12/Haddad.Poultry.Farm_1.2.12_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.12/Haddad.Poultry.Farm_1.2.12_x64-setup.exe"
     }
   }
 }
