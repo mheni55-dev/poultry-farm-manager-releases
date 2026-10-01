@@ -1,12 +1,12 @@
 {
-  "version": "1.2.12",
-  "notes": "Expense form: no dead-birds field, day input runs 0..60",
-  "pub_date": "2026-10-01T12:03:49.320Z",
+  "version": "1.2.13",
+  "notes": "Home panel with page icons; sidebar keeps Settings only",
+  "pub_date": "2026-10-01T14:25:24.541Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFhV0E2UkIvWGg2MWNUaEJBV0hyZ3V3YVNxQ3J4YnROUGhLbjBhQXpuV3p5Y3dWL01hR1VkMGpYMVdCQURIS05YbFVMQWcyVHpmUDNBNnJFc0krQndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODU2MjI4CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTJfeDY0X2VuLVVTLm1zaS56aXAKWWd6Sldid0lWNlliUFl3UUFFLzZuRFQwOGh3OWVsWUt2NzJlTGhaSEpoZG1NYkFvSHBJd1BQTjdDQmZUaHRPRDNiZm93NE5LVC8rRTZrQzRNVEVvQWc9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.12/Haddad.Poultry.Farm_1.2.12_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.12/Haddad.Poultry.Farm_1.2.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmp6VlBPZlZqbGtqWEwySzVja2prdEVLaGVNU01iSnlVWms3eGR5bTFtK1VNKzI1ZnQ4endqcDR1UGlQUEYrOVltYUYxOHRvcGxMRGhkWDhQaWRYT3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY0NzI0CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTNfeDY0X2VuLVVTLm1zaS56aXAKTTU3a1R1NTFoMkZ4Q3BMVkFWeVI3ZnpJQmxldS9YaVZLVWpQdGJiZlRMR0ppZVBidmlPMk5zTmFoSWxKYVlVZXRPRHVoOEJzNCtka09NS2dJa3g3RHc9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.13/Haddad.Poultry.Farm_1.2.13_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.13/Haddad.Poultry.Farm_1.2.13_x64-setup.exe"
     }
   }
 }
