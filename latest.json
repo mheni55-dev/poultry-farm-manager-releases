@@ -1,12 +1,12 @@
 {
-  "version": "1.2.13",
-  "notes": "Home panel with page icons; sidebar keeps Settings only",
-  "pub_date": "2026-10-01T14:25:24.541Z",
+  "version": "1.2.14",
+  "notes": "Dead birds now sit as rows inside the expenses table, and water expenses are counted by tank (quantity x tank price). In Sales: editing a saved sale updates it instead of creating a second one, the slaughterhouse/farmer name is stored and printed on the invoice, the sale block sits above the workers, each box group has an Add Weight button that reveals its fields, the invoice prints the empty/loaded box weights and worker shares, and the form empties after saving. The dashboard gained a conversion factor (kg of feed per 1 kg of meat) and a feed cost per living bird.",
+  "pub_date": "2026-10-05T14:28:35.705Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmp6VlBPZlZqbGtqWEwySzVja2prdEVLaGVNU01iSnlVWms3eGR5bTFtK1VNKzI1ZnQ4endqcDR1UGlQUEYrOVltYUYxOHRvcGxMRGhkWDhQaWRYT3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY0NzI0CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTNfeDY0X2VuLVVTLm1zaS56aXAKTTU3a1R1NTFoMkZ4Q3BMVkFWeVI3ZnpJQmxldS9YaVZLVWpQdGJiZlRMR0ppZVBidmlPMk5zTmFoSWxKYVlVZXRPRHVoOEJzNCtka09NS2dJa3g3RHc9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.13/Haddad.Poultry.Farm_1.2.13_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.13/Haddad.Poultry.Farm_1.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnUwaUJUWjVjYkhKb1dScXRnUnU2ai9zQlhFbk54anJQcEJMb0duN1dtUnR1YXdjTlVNZXpOYytFbWszdHlVTk1zL0hDUVlFcGg0c3RyS3hvZjdBTVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjEwNTE1CWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTRfeDY0X2VuLVVTLm1zaS56aXAKcnlmZm4xTVY0bFdFZkZSajl2cHdkanJvdGdoOWdMM1luQ0ovYUZ2T3grbzNXSXBJTGR2SE5sYzlmbm9DbnB3UldpVmlCY0s3ZTBqS1RTeHJOS215QUE9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.14/Haddad.Poultry.Farm_1.2.14_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.14/Haddad.Poultry.Farm_1.2.14_x64-setup.exe"
     }
   }
 }
