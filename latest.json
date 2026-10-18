@@ -1,12 +1,12 @@
 {
-  "version": "1.2.15",
-  "notes": "The Add",
-  "pub_date": "2026-10-06T11:30:34.046Z",
+  "version": "1.2.16",
+  "notes": "Sales can now record weak/sick (dishi) bird sales and off-box direct sales, both folded into the cycle total with a weak-sales dashboard tile. The store gained a dated movement ledger and merging two hatcheries' stock. Empty-box tare now counts only the filled boxes and loaded weights are capped at the number of weighed empty boxes. The slaughterhouse and farmer fields are separate on the invoice, the sale form stays mounted when navigating away, numeric fields accept decimals again, and the expenses day field is fixed.",
+  "pub_date": "2026-10-18T09:55:53.064Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYmxYajRkeWlGd052czM3Y3BXNDlMeUtNbDB2bFYyeWd2WVJGeithTmRveUZ1SXZzcUFwV2hmeHU5WlVsbFpESll5US9XeDdsOXQ3ZmtVbHFMUHN4cXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg2MjMzCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTVfeDY0X2VuLVVTLm1zaS56aXAKY3Q5VXdKVks3ajFLRTcwV243V2JWcDV5bEdhVzdzc1VpMjhNakRnc3FidG1RdXY3Z0V2SjdPV1ZZcE5MSnk1SnZ2NitGMDdWTk95emhWQlplWFBXQ1E9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.15/Haddad.Poultry.Farm_1.2.15_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.15/Haddad.Poultry.Farm_1.2.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYm9wYnhBMGRjWXp4U0Z4NUtGazlWYktBUFZLQW9RZWxWdVZJMVl3bGNpQmRTUEFRaTlXYllqWjVjRE1abXd6MUhyL21LbzdtMmtnNzlibzJLeTdyTWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzE3MzUyCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTZfeDY0X2VuLVVTLm1zaS56aXAKa0hWOVl3YzVkTkdiaGczSFNla245RktMSFRHOSsxbGxWRUp6NDlBS21YaExadnBaelJLWnNkczhHWlk3U1E1QnJoYW9wY0tDVWQzMEpBRlZCOGRQQUE9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.16/Haddad.Poultry.Farm_1.2.16_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.16/Haddad.Poultry.Farm_1.2.16_x64-setup.exe"
     }
   }
 }
