@@ -1,12 +1,12 @@
 {
-  "version": "1.2.16",
-  "notes": "Fix: allow increasing feed/inventory expense quantity on edit by releasing previous draw first (release→validate→consume).",
-  "pub_date": "2026-10-19T08:44:41.848Z",
+  "version": "1.2.17",
+  "notes": "Fixed editing of feed expenses when the store stock is lower than the quantity drawn. Editing the date, quantity or store item now works and the stock is recalculated correctly.",
+  "pub_date": "2026-10-19T15:43:34.148Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYm9Cc1JXSnlQZ0lwM3RXV05wVzAwMWpmbzkvQmduK2tyOThuTHE0bHNncWFON1U0NDRoTmIrUld0WEFGcmptaEJTRUlNL0t4OHNnVkdQeHFWdGRZOWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzk5NDgxCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTZfeDY0X2VuLVVTLm1zaS56aXAKVWxLWWlsNmo4Z1NzQTlsaTJ2L3dVU1F5WEZic3dvaEw0WkR3SlJQeUNPVEpGYlBPSysxUUZnS0xVRzhXRnNUTk5jSUxCTGV6bCtyV0VNR1Q3VFBhQVE9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.16/Haddad.Poultry.Farm_1.2.16_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.16/Haddad.Poultry.Farm_1.2.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFyR1NXazRIbW55RFdldzhzYXB6a3ZTNndYYlVGUjdEMlNDLzgwUkxVU2l2U2xtMWJvUlIyOWd1ZXVRTEVXdnZLOEFoRWVSSFg2VSt4ZkpDa05OZ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI0NjEzCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTdfeDY0X2VuLVVTLm1zaS56aXAKbnhZN3NhcG0xR3dSdHdYMC9xUE05eEtwMXVlSlVMc04zOHdDWFAxei9VZm5FZHdCcU9xaEN2T0ZVMnV6a3NoS3VNR3hyRjl2VkdPN0E0RWRzV2Y5QXc9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.17/Haddad.Poultry.Farm_1.2.17_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.17/Haddad.Poultry.Farm_1.2.17_x64-setup.exe"
     }
   }
 }
