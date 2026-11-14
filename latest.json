@@ -1,12 +1,12 @@
 {
-  "version": "1.2.17",
-  "notes": "Fixed editing of feed expenses when the store stock is lower than the quantity drawn. Editing the date, quantity or store item now works and the stock is recalculated correctly.",
-  "pub_date": "2026-10-19T15:43:34.148Z",
+  "version": "1.2.18",
+  "notes": "حذف الدورة يُعيد إلى المخزن كل ما استهلكته من علف وأدوية ومستلزمات، ويحذف سجلاتها. وأصبح بإمكان عدة مداجن مشاركة مخزن واحد.\nDeleting a cycle returns the feed, medicine and other supplies it used to the store. Several hatcheries can now share one store.",
+  "pub_date": "2026-11-14T09:01:32.973Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnFyR1NXazRIbW55RFdldzhzYXB6a3ZTNndYYlVGUjdEMlNDLzgwUkxVU2l2U2xtMWJvUlIyOWd1ZXVRTEVXdnZLOEFoRWVSSFg2VSt4ZkpDa05OZ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI0NjEzCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMTdfeDY0X2VuLVVTLm1zaS56aXAKbnhZN3NhcG0xR3dSdHdYMC9xUE05eEtwMXVlSlVMc04zOHdDWFAxei9VZm5FZHdCcU9xaEN2T0ZVMnV6a3NoS3VNR3hyRjl2VkdPN0E0RWRzV2Y5QXc9PQo=",
-      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.17/Haddad.Poultry.Farm_1.2.17_x64_en-US.msi.zip",
-      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.17/Haddad.Poultry.Farm_1.2.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdEZuUm9XSW9zYnBXclN4b1dmS1p5dGY1ZEF0VDN0UlU0VHpvbkUrcHpsSTN5WHZ0S3VRSzVDWlFQR25YanlhNVFuSmk4aEJWZGRRREltNk9KVkpKMWphc3c0QU5hbHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ2ODkyCWZpbGU6SGFkZGFkIFBvdWx0cnkgRmFybV8xLjIuMThfeDY0X2VuLVVTLm1zaS56aXAKa3ZYZUpybDZ3OTFrY0kvendqUDNxUzM4QkVrdU5mOWdaV3JqNWE1TzRVSGhyOGt2bmhUVDNIZk1VWXJJNFdFRXJhMEM3czFGS05LdkRxOEwvYk5kQ0E9PQo=",
+      "url": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.18/Haddad.Poultry.Farm_1.2.18_x64_en-US.msi.zip",
+      "setupUrl": "https://github.com/mheni55-dev/poultry-farm-manager-releases/releases/download/v1.2.18/Haddad.Poultry.Farm_1.2.18_x64-setup.exe"
     }
   }
 }
